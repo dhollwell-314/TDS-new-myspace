@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
                                                                    <h?><b> Welcome BAFE</h?><b?>
 ## Header 2
-                                                            <h?> Stand For Black Air force Enegry</h?>
+                                          <h?> Stand For Black Air force Enegry now knowing that gonvor yourself accordingly</h?>
 ### Header 3 
                                                                      <h?>Ten Commandments</h?>
 - Bulleted
@@ -26,7 +26,7 @@ Syntax highlighted code block
   <p><ul>6.) Been a keyboard gangaster will get you banned<ul/></p>
   <p><ul>7.) IP theft will get you banned<ul/></p>
   <p><ul>8.) BAFE staff will not ask for your personal information<ul/></p>
-  <p><ul>9.) If you have any question go to https://www.facebook.com/dhollwell leave comment <ul/></p>
+  <p><ul>9.) If you have any question go to <a> https://www.facebook.com/dhollwell </a> leave comment <ul/></p>
   <p><ul>10.) Lastly and most important Rurouni Kenshin is the Greastest swordmans of all time <ul/></p>
   
   
