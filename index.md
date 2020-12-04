@@ -15,9 +15,22 @@ Syntax highlighted code block
                                                                    <h?><b> Welcome BAFE</h?><b?>
 ## Header 2
                                                             <h?> Stand For Black Air force Enegry</h?>
-### Header 3
-</h?>
+### Header 3 
+                                                                     <h?>Ten Commandments</h?>
 - Bulleted
+  <p><ul>1.) The admins cant and wont save you <ul/></p>
+  <p><ul>2.) Treat other the way you want to be treated<ul/></p>
+  <p><ul>3.) This is a positive enviroment<ul/></p>
+  <p><ul>4.) Discrimination will get you banned<ul/></p>
+  <p><ul>5.) Rascist statement will get you banned<ul/></p>
+  <p><ul>6.) Been a keyboard gangaster will get you banned<ul/></p>
+  <p><ul>7.) IP theft will get you banned<ul/></p>
+  <p><ul>8.) BAFE staff will not ask for your personal information<ul/></p>
+  <p><ul>9.) If you have any question go to https://www.facebook.com/dhollwell leave comment <ul/></p>
+  <p><ul>10.) Lastly and most important Rurouni Kenshin is the Greastest swordmans of all time <ul/></p>
+  
+  
+  
 - List
 
 1. Numbered
